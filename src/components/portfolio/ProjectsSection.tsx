@@ -15,7 +15,7 @@ const projects = [
     subtitle: "Interview Assessment Platform",
     description:
       "An enterprise interview platform conducting structured interviews followed by coding rounds, aligned with real technical hiring workflows. Built with React, TypeScript, Fluent UI, .NET and Node.js.",
-    tags: ["React", "TypeScript", ".NET", "Node.js", "MySQL"],
+    tags: ["React", "TypeScript", ".NET", "Node.js", "MySQL","Open AI","Javascript"],
     highlight: "Real-world production platform",
   },
 ];
